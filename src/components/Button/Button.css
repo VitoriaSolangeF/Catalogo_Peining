@@ -1,0 +1,88 @@
+.button-car {
+    width: 10px;
+    height: 40px;
+    background-color: transparent;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    display: flex;
+    cursor: pointer;
+    margin:auto;
+    border-radius: 10px;
+    position: absolute;
+    right: 400px;
+    top: 48px;
+    border: none;
+    color: white;
+    font-size: 2.2em;
+}
+
+.button-atendimento {
+    width: 10px;
+    height: 40px;
+    background-color: transparent;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    display: flex;
+    cursor: pointer;
+    margin:auto;
+    border-radius: 10px;
+    position: absolute;
+    right: 330px;
+    top: 50px;
+    border: none;
+    color: white;
+    font-size: 2.2em;
+}
+
+.button-promocao {
+    width: 10px;
+    height: 40px;
+    background-color: transparent;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    display: flex;
+    cursor: pointer;
+    margin:auto;
+    border-radius: 10px;
+    position: absolute;
+    right: 260px;
+    top: 50px;
+    border: none;
+    color: white;
+    font-size: 2.3em;
+}
+
+
+.button-zap {
+    width: 10px;
+    height: 40px;
+    background-color: transparent;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    display: flex;
+    cursor: pointer;
+    margin:auto;
+    border-radius: 10px;
+    position: absolute;
+    right: 50px;
+    top: 45px;
+    border: none;
+    color: white;
+    font-size: 2.5em;
+}

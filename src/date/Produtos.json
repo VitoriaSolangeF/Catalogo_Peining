@@ -1,0 +1,181 @@
+[
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x450/1872/1872848/produto/91097800/3613ec24c2.jpg",
+        "id": "KT604X",
+        "cx_und": "100und",
+        "value": 24.00,
+        "stock": 500,
+        "description": "Carregador Typ-C 1USB"
+    },
+    
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x700/1937/1937892/produto/2219389237e96da34be.jpg",
+        "id": "KT603X",
+        "cx_und": "100und",
+        "value": 24.00,
+        "stock": 500,
+        "description": "Carregador Micro 1USB"
+    },
+
+    {
+        "urlImage": "https://images.tcdn.com.br/img/img_prod/1174957/180_kit_carregador_lightning_iphone_3_1a_kimaster_kt602x_277_1_2f4e0a31f5b095b739700c39131ff561.jpg",
+        "id": "KT602X",
+        "cx_und": "100und",
+        "value": 24.00,
+        "stock": 500,
+        "description": "Carregador IP 1USB"
+    },
+
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x700/1937/1937892/produto/221939969ab5e855a01.jpg",
+        "id": "KT609X",
+        "cx_und": "100und",
+        "value": 26.00,
+        "stock": 500,
+        "description": "Carregador Typ-C 2USB"
+    },
+
+    {
+        "urlImage": "https://a-static.mlcdn.com.br/450x450/carregador-kimaster-kt608x-micro-v8-auto-id/bittacessorios/bdc0538ce8bc11ebb7b04201ac18500e/02492cb191bd850a865420d0a8ef1a1a.jpeg",
+        "id": "KT120",
+        "cx_und": "100und",
+        "value": 26.00,
+        "stock": 500,
+        "description": "Carregador Micro 2USB"
+    },
+
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x450/1872/1872848/produto/91093193/16881bb69b.jpg",
+        "id": "KTlt0",
+        "cx_und": "100und",
+        "value": 26.00,
+        "stock": 500,
+        "description": "Carregador IP 2USB"
+    },
+    
+    {
+        "urlImage": "https://images-americanas.b2w.io/produtos/1618051774/imagens/kit-carregador-turbo-type-c-kimaster-kt639/1618051969_1_large.jpg",
+        "id": "KT125",
+        "cx_und": "100und",
+        "value": 35.00,
+        "stock": 500,
+        "description": "Carregador Turbo Typ-C"
+    },
+
+    {
+        "urlImage": "https://cdn.avinformatica.com.br/media/catalog/product/cache/1/image/1540x1540/9df78eab33525d08d6e5fb8d27136e95/0/1/014653_1_1.jpg",
+        "id": "KT625",
+        "cx_und": "100und",
+        "value": 35.00,
+        "stock": 500,
+        "description": "Carregador Turbo Micro"
+    },
+
+    {
+        "urlImage": "https://www.lojaskingcell.com.br/product_images/h/289/1624992122_20a52-emb__51015_std.jpg",
+        "id": "KT",
+        "cx_und": "100und",
+        "value": 50.00,
+        "stock": 500,
+        "description": "Carregador Turbo Lightning/USB-C"
+    },
+
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x450/2095/2095445/produto/223626427/ejp3uoy8-5crceijs0k.png",
+        "id": "KT60",
+        "cx_und": "100und",
+        "value": 50.00,
+        "stock": 500,
+        "description": "Carregador Turbo Typ-C/Typ-C"
+    },
+
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x450/2095/2095445/produto/223626427/ejp3uoy8-5crceijs0k.png",
+        "id": "KT620a",
+        "cx_und": "100und",
+        "value": 50.00,
+        "stock": 500,
+        "description": "Carregador Turbo Typ-C/Typ-C"
+    },
+
+    {
+        "urlImage": "https://cdn.awsli.com.br/600x450/2095/2095445/produto/223626427/ejp3uoy8-5crceijs0k.png",
+        "id": "KT6098",
+        "cx_und": "100und",
+        "value": 50.00,
+        "stock": 500,
+        "description": "Carregador Turbo Typ-C/Typ-C"
+    },
+
+    {
+        "urlImage": "https://reatacado.com.br/image/cache/catalog/products/2023/02/171005/Embalagem%202-500x500.jpg",
+        "id": "TWS350",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "Fone TWS350"
+    },
+
+    {
+        "urlImage": "https://http2.mlstatic.com/D_NQ_NP_617771-MLB45812119673_052021-O.webp",
+        "id": "TWS100",
+        "cx_und": "100und",
+        "value": 65.00,
+        "stock": 500,
+        "description": "Fone TWS100"
+    },
+
+    {
+        "urlImage": "https://cf.shopee.com.br/file/391b896ad3bf07fe8773694ce921c870",
+        "id": "TWS200",
+        "cx_und": "100und",
+        "value": 75.00,
+        "stock": 500,
+        "description": "Fone TWS200"
+    },
+
+    {
+        "urlImage": "https://m.media-amazon.com/images/I/71DquizHgrL._AC_UF350,350_QL50_.jpg",
+        "id": "K27",
+        "cx_und": "100und",
+        "value": 70.00,
+        "stock": 500,
+        "description": "Fone K27"
+    },
+
+    {
+        "urlImage": "https://cdn.leroymerlin.com.br/products/fone_de_ouvido_stereo_sport_bluetooth_kimaster_k30_chumbo_1566913355_3774_600x600.jpg",
+        "id": "K30",
+        "cx_und": "100und",
+        "value": 70.00,
+        "stock": 500,
+        "description": "Fone K30"
+    },
+
+    {
+        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
+        "id": "K59",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "Fone K9"
+    },
+
+    {
+        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
+        "id": "K19",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "roteador"
+    },
+
+    {
+        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
+        "id": "K29",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "tp-link"
+    }
+]

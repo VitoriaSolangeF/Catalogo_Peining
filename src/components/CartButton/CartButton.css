@@ -1,0 +1,12 @@
+.whatapp_icon {
+    font-size: 2.5rem;
+    display: flex;
+    cursor: pointer;
+    color: white;
+}
+
+@media (max-width: 1124px) {
+    .whatapp_icon {
+        font-size: 2.2rem;
+    }
+  }
