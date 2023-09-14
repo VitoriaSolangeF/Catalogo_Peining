@@ -16,7 +16,7 @@ function ProductCard({ produtos, busca }) {
                     {produtsFiltradas.map((produto) => (
                         <div key={produto.id} className="product-card w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                             <a href="#">
-                                <img className="p-8 rounded-t-lg" src="https://png.pngitem.com/pimgs/s/134-1341378_apple-watch-series-4-hd-png-download.png"/>
+                                <img className="p-8 rounded-t-lg" src={produto.urlImage}/>
                             </a>
                             <div className="card_infos px-5 pb-5">
                                 <a href="#">

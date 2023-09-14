@@ -1,181 +1,181 @@
 [
     {
-        "urlImage": "https://cdn.awsli.com.br/600x450/1872/1872848/produto/91097800/3613ec24c2.jpg",
-        "id": "KT604X",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-P620CX-1.jpg",
+        "id": "PEI-P620",
         "cx_und": "100und",
-        "value": 24.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Typ-C 1USB"
+        "description": "Fone de Ouvido Bluetooth"
     },
     
     {
-        "urlImage": "https://cdn.awsli.com.br/600x700/1937/1937892/produto/2219389237e96da34be.jpg",
-        "id": "KT603X",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-b05cx.jpg",
+        "id": "B-05",
         "cx_und": "100und",
-        "value": 24.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Micro 1USB"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://images.tcdn.com.br/img/img_prod/1174957/180_kit_carregador_lightning_iphone_3_1a_kimaster_kt602x_277_1_2f4e0a31f5b095b739700c39131ff561.jpg",
-        "id": "KT602X",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-P621CX.jpg",
+        "id": "PEI-621",
         "cx_und": "100und",
-        "value": 24.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador IP 1USB"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://cdn.awsli.com.br/600x700/1937/1937892/produto/221939969ab5e855a01.jpg",
-        "id": "KT609X",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-630-CX.jpg",
+        "id": "PEI-630",
         "cx_und": "100und",
-        "value": 26.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Typ-C 2USB"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://a-static.mlcdn.com.br/450x450/carregador-kimaster-kt608x-micro-v8-auto-id/bittacessorios/bdc0538ce8bc11ebb7b04201ac18500e/02492cb191bd850a865420d0a8ef1a1a.jpeg",
-        "id": "KT120",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-P626CX.jpg",
+        "id": "PEI-P626",
         "cx_und": "100und",
-        "value": 26.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Micro 2USB"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://cdn.awsli.com.br/600x450/1872/1872848/produto/91093193/16881bb69b.jpg",
-        "id": "KTlt0",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-M517CX.jpg",
+        "id": "PEI-M517",
         "cx_und": "100und",
-        "value": 26.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador IP 2USB"
+        "description": "Fone de Ouvido Bluetooth"
     },
     
     {
-        "urlImage": "https://images-americanas.b2w.io/produtos/1618051774/imagens/kit-carregador-turbo-type-c-kimaster-kt639/1618051969_1_large.jpg",
-        "id": "KT125",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/04/PEI-M518.png",
+        "id": "PEI-M518",
         "cx_und": "100und",
-        "value": 35.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Turbo Typ-C"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://cdn.avinformatica.com.br/media/catalog/product/cache/1/image/1540x1540/9df78eab33525d08d6e5fb8d27136e95/0/1/014653_1_1.jpg",
-        "id": "KT625",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/ST-05-1.jpg",
+        "id": "ST-05",
         "cx_und": "100und",
-        "value": 35.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Turbo Micro"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://www.lojaskingcell.com.br/product_images/h/289/1624992122_20a52-emb__51015_std.jpg",
-        "id": "KT",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/ST-12CX.jpg",
+        "id": "ST-12",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone de Ouvido Bluetooth"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/TG902cx.jpg",
+        "id": "TG902 A",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone de Ouvido Bluetooth"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/TG903CX-600x600.png",
+        "id": "TG903",
         "cx_und": "100und",
         "value": 50.00,
         "stock": 500,
-        "description": "Carregador Turbo Lightning/USB-C"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://cdn.awsli.com.br/600x450/2095/2095445/produto/223626427/ejp3uoy8-5crceijs0k.png",
-        "id": "KT60",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/07/x1.jpg",
+        "id": "X1 - P2, USB",
         "cx_und": "100und",
-        "value": 50.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Turbo Typ-C/Typ-C"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://cdn.awsli.com.br/600x450/2095/2095445/produto/223626427/ejp3uoy8-5crceijs0k.png",
-        "id": "KT620a",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/07/PEI-EP603.jpg",
+        "id": "PEI-EP603",
         "cx_und": "100und",
-        "value": 50.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Turbo Typ-C/Typ-C"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://cdn.awsli.com.br/600x450/2095/2095445/produto/223626427/ejp3uoy8-5crceijs0k.png",
-        "id": "KT6098",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/05/ST-30CX.jpg",
+        "id": "ST30",
         "cx_und": "100und",
-        "value": 50.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Carregador Turbo Typ-C/Typ-C"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://reatacado.com.br/image/cache/catalog/products/2023/02/171005/Embalagem%202-500x500.jpg",
-        "id": "TWS350",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/05/ST-33-1.jpg",
+        "id": "ST-33",
         "cx_und": "100und",
-        "value": 85.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Fone TWS350"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://http2.mlstatic.com/D_NQ_NP_617771-MLB45812119673_052021-O.webp",
-        "id": "TWS100",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/ST-18-A-.jpg",
+        "id": "ST-18A",
         "cx_und": "100und",
-        "value": 65.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Fone TWS100"
+        "description": "Fone de Ouvido Bluetooth"
     },
 
     {
-        "urlImage": "https://cf.shopee.com.br/file/391b896ad3bf07fe8773694ce921c870",
-        "id": "TWS200",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP-310.jpg",
+        "id": "PEI-EP-310",
         "cx_und": "100und",
-        "value": 75.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Fone TWS200"
+        "description": "Fone de Ouvido P2"
     },
 
     {
-        "urlImage": "https://m.media-amazon.com/images/I/71DquizHgrL._AC_UF350,350_QL50_.jpg",
-        "id": "K27",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP-312.jpg",
+        "id": "PEI-EP-312",
         "cx_und": "100und",
-        "value": 70.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Fone K27"
+        "description": "Fone de Ouvido P2"
     },
 
     {
-        "urlImage": "https://cdn.leroymerlin.com.br/products/fone_de_ouvido_stereo_sport_bluetooth_kimaster_k30_chumbo_1566913355_3774_600x600.jpg",
-        "id": "K30",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP-314.jpg",
+        "id": "PEI-EP-314",
         "cx_und": "100und",
-        "value": 70.00,
+        "value": 5.00,
         "stock": 500,
-        "description": "Fone K30"
+        "description": "Fone De Ouvido P2"
     },
 
     {
-        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
-        "id": "K59",
-        "cx_und": "100und",
-        "value": 85.00,
-        "stock": 500,
-        "description": "Fone K9"
-    },
-
-    {
-        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
-        "id": "K19",
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/09/ep16cx.jpg",
+        "id": "PEI-EP16",
         "cx_und": "100und",
         "value": 85.00,
         "stock": 500,
-        "description": "roteador"
-    },
-
-    {
-        "urlImage": "https://cdnv2.moovin.com.br/technohaus/imagens/produtos/det/headphone-bluetooth-ajustavel-com-microfone-elite-k9-kimaster-preto-6395d0908b14d7948cb36cb99617f06c.jpg",
-        "id": "K29",
-        "cx_und": "100und",
-        "value": 85.00,
-        "stock": 500,
-        "description": "tp-link"
+        "description": "Fone De Ouvido P2"
     }
 ]

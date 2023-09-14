@@ -36,7 +36,7 @@ function Peining() {
         <Banner/>
 
         <div className="Carregadores">
-          <h1>Carregadores</h1>
+          <h1>Produtos Peining</h1>
         </div>
 
         <div className="card-container">
