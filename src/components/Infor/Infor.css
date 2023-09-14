@@ -1,0 +1,38 @@
+.container_infor {
+    width: 90%;
+    height: 100vh;
+    height: auto;
+    padding-top: 100px;
+    background-color: #efefef;
+    position: relative;
+    right: -90px;
+
+}
+
+.slide-infor {
+    width:100%;
+    height: 130px;
+    object-fit: cover;
+    z-index: 30;
+    display: flex;
+    background-color: black;
+
+}
+
+@media (max-width: 913px) {
+    .slide-item {
+        height: 15em;
+    }
+}
+
+@media (max-width: 1055px) {
+    .slide-item {
+        height: 20em;
+    }
+}
+@media (max-width: 1219px) {
+    .slide-item {
+        height: 30.5em;
+    }
+}
+

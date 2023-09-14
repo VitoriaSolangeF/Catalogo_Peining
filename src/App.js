@@ -9,6 +9,7 @@ import { LoadProdutos } from './components/utils/loadProdutos';
 
 // Imagens
 import whatapp from './assets/whatsapp.png'
+import Infor from "./components/Infor/Infor";
 
 function Peining() {
   const [busca, setBusca] = useState('');
@@ -49,6 +50,7 @@ function Peining() {
           </div>
         </div>
 
+        <Infor />
       </div>
   );
 }
