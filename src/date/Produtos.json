@@ -174,8 +174,233 @@
         "urlImage": "https://peining.com.br/wp-content/uploads/2023/09/ep16cx.jpg",
         "id": "PEI-EP16",
         "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2022/07/peining-fone-de-ouvido-PEI-EP07-branco-002-e1669912055887.png",
+        "id": "PEI-EP07",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2022/07/peining-fone-de-ouvido-PEI-EP10-branco-002-e1669911394118.png",
+        "id": "PEI-EP10",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2022/07/PEI-EP11CX.jpg",
+        "id": "PEI-EP11",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2022/07/PEI-EP12CX.jpg",
+        "id": "PEI-EP12",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP13cx.jpg",
+        "id": "PEI-EP13",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP14CX-1.jpg",
+        "id": "PEI-EP14",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP15CX.jpg",
+        "id": "PEI-EP15",
+        "cx_und": "100und",
+        "value": 5.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2022/07/PEI-EP17cx.jpg",
+        "id": "PEI-EP17",
+        "cx_und": "100und",
         "value": 85.00,
         "stock": 500,
         "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP18CX.jpg",
+        "id": "PEI-EP18",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-EP19CX.jpg",
+        "id": "PEI-EP19",
+        "cx_und": "100und",
+        "value": 85.00,
+        "stock": 500,
+        "description": "Fone De Ouvido P2"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-216-2-3.png",
+        "id": "PEI-216",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Usb"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-108cx.jpg",
+        "id": "PEI-108",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Usb"
+    },
+    
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-209-cx.png",
+        "id": "PEI-209",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Usb"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-907CX.png",
+        "id": "PEI-907",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Usb"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-906CX.jpg",
+        "id": "PEI-906",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Usb"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-CC01CX.jpg",
+        "id": "PEI-CC01",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Veicular"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-CC07CX.jpg",
+        "id": "PEI-CC07",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Veicular"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-F005cx.jpg",
+        "id": "PEI-F005",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Veicular"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/WU-V2cx.jpg",
+        "id": "WU-V2",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Fonte Veicular"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/PEI-CA212CX-1.jpg",
+        "id": "PEI-CA212 USB/TPC",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Carregador Veicular"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/WUP-952.jpg",
+        "id": "WUP-952",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Power Bank 5000mAh"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/WUP-951.jpg",
+        "id": "WUP-951",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Power Bank 10000mAh"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/WUP-830.jpg",
+        "id": "WUP-830",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Power Bank 10000mAh"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/WUP-934.jpg",
+        "id": "WUP-934",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Power Bank 10000mAh"
+    },
+
+    {
+        "urlImage": "https://peining.com.br/wp-content/uploads/2023/08/WUP-935.jpg",
+        "id": "WUP-935",
+        "cx_und": "100und",
+        "value": 10.00,
+        "stock": 500,
+        "description": "Power Bank 10000mAh"
     }
 ]
