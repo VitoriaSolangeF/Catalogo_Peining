@@ -160,30 +160,41 @@
 
 @media (max-width: 600px) {
     .button-car {
-        display: flex;
+        font-size: 0;
+        /*display: flex;
         position: absolute;
         top: 40px;
         right: 210px;
-        font-size: 1.8em;
+        font-size: 1.8em;*/
     }   
 }
 
 @media (max-width: 600px) {
     .button-promocao {
-        display: flex;
-        position: absolute;
-        top: 40px;
-        right: 175px;
-        font-size: 1.8em;
+        font-size: 0;
     }   
 }
 
 @media (max-width: 600px) {
     .button-atendimento {
-        display: flex;
-        position: absolute;
-        top: 40px;
-        right: 140px;
-        font-size: 1.8em;
+        font-size: 0;
+    }   
+}
+
+@media (max-width: 500px) {
+    .button-car {
+        font-size: 0;
+    }   
+}
+
+@media (max-width: 500px) {
+    .button-promocao {
+        font-size: 0;
+    }   
+}
+
+@media (max-width: 500px) {
+    .button-atendimento {
+        font-size: 0;
     }   
 }

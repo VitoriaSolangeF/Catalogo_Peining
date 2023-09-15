@@ -43,8 +43,8 @@ body {
 }
 
 .content img{
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   cursor: pointer;
   transition: transform 100ms ease-in-out;
 }
@@ -73,6 +73,16 @@ body {
     width: 100%;
     position: relative;
     margin-left: 10px;
+    font-size: 1.3em;
+  }
+}
+
+@media (max-width: 300px) {
+  .Carregadores {
+    height: 10%;
+    width: 100%;
+    position: relative;
+    margin-left: 1px;
     font-size: 1.3em;
   }
 }

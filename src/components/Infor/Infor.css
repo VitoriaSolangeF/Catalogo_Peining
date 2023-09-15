@@ -22,9 +22,9 @@
         height: 10%;
         width: 100%;
         position: relative;
-        margin-left: 1px;
-        left: 10px;
-        margin-left: -5px
+        margin-left: -5px;
+        top: 15px;
+        z-index: 150;
 
     }
 }

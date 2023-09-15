@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import './Header.css';
 import CartButton from "../CartButton/CartButton";
 import Menu from "../Menu/Menu";
-import Button from "../Button/Button";
 
 function Header({valor, onChange}) {
 
@@ -29,7 +28,6 @@ function Header({valor, onChange}) {
                 <div className="container_button">
                     <CartButton />
                     <Menu/>
-                    <Button />
                 </div>
             </div>
         </header>
