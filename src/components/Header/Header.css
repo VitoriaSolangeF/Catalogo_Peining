@@ -98,10 +98,13 @@
     }   
 }
 
-@media (max-width: 300px) {
+@media (max-width: 400px) {
     .logo {
-        width: 80px;
-        height: 40px;
+        width: 90px;
+        height: 50px;
+        position: relative;
+        top: -25px;
+        right: -50px;
     }
 }
 
@@ -112,12 +115,10 @@
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 300px) {
     .logo {
-        width: 90px;
-        height: 50px;
-        position: relative;
-        top: -20px;
+        width: 80px;
+        height: 40px;
     }
 }
 
@@ -159,7 +160,7 @@
         width: 50%;
         height: 5px;
         position: relative;
-        right: 120px;
+        right: 110px;
         top: -5px;
     }
 }

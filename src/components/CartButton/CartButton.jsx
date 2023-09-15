@@ -6,7 +6,7 @@ import './CartButton.css';
 
 function CartButton() {
     return (
-        <div className="whatapp_header">
+        <div className="whatapp_header w-full max-w-sm">
             <ReactWhatsapp number="(11) 969234702" message="Olá mundo">
                 < MdOutlineWhatsapp />
             </ReactWhatsapp>

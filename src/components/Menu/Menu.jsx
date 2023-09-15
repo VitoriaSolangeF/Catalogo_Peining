@@ -37,7 +37,7 @@ function Menu () {
     return (
         <div className="Menu">
             <div className='menu-container' ref={menuRef}>
-                <div className='menu-trigger' onClick={()=>{setOpen(!open)}}>
+                <div className='menu-trigger w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700' onClick={()=>{setOpen(!open)}}>
                     <span>MENU</span>
                 </div>
 

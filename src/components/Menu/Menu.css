@@ -137,12 +137,12 @@ h3 span{
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 400px) {
   .menu-trigger {
       width: 60px;
       height: 30px;
-      top: 30px;
-      right: 5px;
+      top: 55px;
+      right: 1px;
   }
 }
 
@@ -151,6 +151,15 @@ h3 span{
       width: 60px;
       height: 30px;
       top: 35px;
+      right: 5px;
+  }
+}
+
+@media (max-width: 300px) {
+  .menu-trigger {
+      width: 60px;
+      height: 30px;
+      top: 30px;
       right: 5px;
   }
 }

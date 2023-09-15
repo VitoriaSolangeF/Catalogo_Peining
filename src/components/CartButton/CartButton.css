@@ -55,7 +55,7 @@
     }
 }
 
-@media (max-width: 710px) {
+/*@media (max-width: 710px) {
     .whatapp_header {
         position: relative;
         right: 290px;
@@ -96,9 +96,19 @@
         position: relative;
         right: 60px;
     }
+}*/
+
+@media (max-width: 400px) {
+    .whatapp_header {
+        width: 80px;
+        height: 40px;
+        right: 45px;
+        top: 20px;
+    }
 }
 
-@media (max-width: 300px) {
+
+@media (max-width: 350px) {
     .whatapp_header {
         width: 80px;
         height: 40px;
@@ -106,7 +116,7 @@
     }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 300px) {
     .whatapp_header {
         width: 80px;
         height: 40px;
