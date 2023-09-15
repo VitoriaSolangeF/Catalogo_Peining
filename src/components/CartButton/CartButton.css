@@ -1,12 +1,93 @@
-.whatapp_icon {
+.whatapp_header {
     font-size: 2.5rem;
     display: flex;
     cursor: pointer;
     color: white;
 }
 
-@media (max-width: 1124px) {
-    .whatapp_icon {
+
+@media (max-width: 1000px) {
+    .whatapp_header {
+        position: relative;
+        right: 180px;
+    }
+}
+
+@media (max-width: 900px) {
+    .whatapp_header {
+        position: relative;
+        right: 170px;
+    }
+}
+
+@media (max-width: 830px) {
+    .whatapp_header {
+        position: relative;
+        right: 180px;
+    }
+}
+
+@media (max-width: 810px) {
+    .whatapp_header {
+        position: relative;
+        right: 200px;
+    }
+}
+
+@media (max-width: 800px) {
+    .whatapp_header {
+        position: relative;
+        right: 220px;
+    }
+}
+
+@media (max-width: 760px) {
+    .whatapp_header {
+        position: relative;
+        right: 240px;
+    }
+}
+
+@media (max-width: 740px) {
+    .whatapp_header {
+        position: relative;
+        right: 270px;
+    }
+}
+
+@media (max-width: 710px) {
+    .whatapp_header {
+        position: relative;
+        right: 290px;
+    }
+}
+
+@media (max-width: 660px) {
+    .whatapp_header {
+        position: relative;
+        right: 350px;
+    }
+}
+
+@media (max-width: 625px) {
+    .whatapp_header {
+        position: relative;
+        right: 360px;
+    }
+}
+
+@media (max-width: 600px) {
+    .whatapp_header {
+        position: relative;
+        right: 65px;
         font-size: 2.2rem;
     }
-  }
+}
+
+@media (max-width: 500px) {
+    .whatapp_header {
+        position: relative;
+        right: 90px;
+    }
+}
+

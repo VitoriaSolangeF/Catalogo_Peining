@@ -20,7 +20,7 @@
     font-size: 2.2em;
 }
 
-.button-atendimento {
+.button-promocao {
     width: 10px;
     height: 40px;
     background-color: transparent;
@@ -42,7 +42,7 @@
     font-size: 2.2em;
 }
 
-.button-promocao {
+.button-atendimento {
     width: 10px;
     height: 40px;
     background-color: transparent;
@@ -86,3 +86,187 @@
     color: white;
     font-size: 2.5em;
 }
+
+@media (max-width: 830px) {
+    .button-car {
+        display: flex;
+        position: absolute;
+        font-size: 2em;
+        right: 350px;
+    }   
+}
+
+@media (max-width: 830px) {
+    .button-promocao {
+        display: flex;
+        position: absolute;
+        font-size: 2em;
+        right: 305px;
+    }   
+}
+
+@media (max-width: 830px) {
+    .button-atendimento {
+        display: flex;
+        position: absolute;
+        font-size: 2em;
+    }   
+}
+
+@media (max-width: 770px) {
+    .button-car {
+        display: flex;
+        position: absolute;
+        font-size: 2em;
+        right: 320px;
+    }   
+}
+
+@media (max-width: 770px) {
+    .button-promocao {
+        display: flex;
+        position: absolute;
+        font-size: 2em;
+        right: 280px;
+    }   
+}
+
+@media (max-width: 770px) {
+    .button-atendimento {
+        display: flex;
+        position: absolute;
+        font-size: 2em;
+        right: 240px;
+    }   
+}
+
+@media (max-width: 700px) {
+    .button-car {
+        border: none;
+    }   
+}
+
+@media (max-width: 700px) {
+    .button-promocao {
+        border: none;
+    }   
+}
+
+@media (max-width: 700px) {
+    .button-atendimento {
+        border: none;
+    }   
+}
+
+@media (max-width: 600px) {
+    .button-car {
+        display: flex;
+        position: absolute;
+        top: 40px;
+        right: 210px;
+        font-size: 1.8em;
+    }   
+}
+
+@media (max-width: 600px) {
+    .button-promocao {
+        display: flex;
+        position: absolute;
+        top: 40px;
+        right: 175px;
+        font-size: 1.8em;
+    }   
+}
+
+@media (max-width: 600px) {
+    .button-atendimento {
+        display: flex;
+        position: absolute;
+        top: 40px;
+        right: 140px;
+        font-size: 1.8em;
+    }   
+}
+/*
+@media (max-width: 600px) {
+    .button-atendimento {
+        font-size: 1em;
+        top: 90px;
+        right: 50px;
+    }   
+}
+
+@media (max-width: 600px) {
+    .button-promocao {
+        font-size: 1em;
+        top: 90px;
+        right: 20px;
+    }   
+}
+
+@media (max-width: 700px) {
+    .button-car {
+        font-size: 1em;
+        top: 90px;
+        right: 75px;
+    }   
+}
+
+@media (max-width: 700px) {
+    .button-atendimento {
+        font-size: 1em;
+        top: 90px;
+        right: 50px;
+    }   
+}
+
+@media (max-width: 700px) {
+    .button-promocao {
+        font-size: 1em;
+        top: 90px;
+        right: 20px;
+    }   
+}
+
+@media (max-width: 800px) {
+    .button-car {
+        font-size: 1em;
+        top: 90px;
+        right: 75px;
+    }   
+}
+
+@media (max-width: 800px) {
+    .button-atendimento {
+        font-size: 1em;
+        top: 90px;
+        right: 50px;
+    }   
+}
+
+@media (max-width: 800px) {
+    .button-promocao {
+        font-size: 1em;
+        top: 90px;
+        right: 20px;
+    }   
+}
+
+@media (max-width: 950px) {
+    .button-car {
+        font-size: 1em;
+    }   
+}
+
+@media (max-width: 950px) {
+    .button-atendimento {
+        font-size: 1em;
+
+    }   
+}
+
+@media (max-width: 950px) {
+    .button-promocao {
+        font-size: 1em;
+    }   
+}*/

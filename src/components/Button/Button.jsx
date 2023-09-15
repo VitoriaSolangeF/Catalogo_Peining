@@ -8,17 +8,18 @@ import { BsMegaphone } from 'react-icons/bs';
 function Button () {
     return (
         <div className="button">
-            <button className="button-car">
+            <button className="button-promocao">
                 <div><BsMegaphone/></div>
+            </button>
+
+            <button className="button-car">
+                <div><BsCart3/></div>
             </button>
 
             <button className="button-atendimento">
                 <div><RiContactsLine/></div>
             </button>
-
-            <button className="button-promocao">
-                <div><BsCart3/></div>
-            </button>
+            
         </div>
     );
 }

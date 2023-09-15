@@ -111,25 +111,28 @@ h3 span{
   transition: var(--speed);
 }
 
-
-@media (max-width: 994px) {
+@media (max-width: 1000px) {
   .menu-trigger {
-    width: 80px;
-    display: flex;
-    cursor: pointer;
-    background-color: white;
-    padding: 0.5em;
-    color: #00b0c7;
-    margin: 0px 0.2em;
-  }
-
-  .menu-trigger {
-    margin-left: 0.8em;
+    width: 90px;
+    height: auto;
+    position: absolute;
+    right: 50px;
   }
 }
 
-@media (max-width: 622px) {
+@media (max-width: 600px) {
   .menu-trigger {
-    margin-left: 0.8em;
+    width: 3.5em;
+    height: auto;
+    position: absolute;
+    top: 42px;
+    right: -20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .dropdown-menu {
+    position: absolute;
+    right: 15px;
   }
 }
