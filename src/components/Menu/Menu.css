@@ -145,3 +145,12 @@ h3 span{
       right: 5px;
   }
 }
+
+@media (max-width: 350px) {
+  .menu-trigger {
+      width: 60px;
+      height: 30px;
+      top: 35px;
+      right: 5px;
+  }
+}

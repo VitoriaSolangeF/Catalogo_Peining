@@ -75,6 +75,15 @@
     }
 }
 
+@media (max-width: 350px) {
+    .container_banner {
+        height: 10%;
+        width: 100%;
+        position: relative;
+        margin-left: 1px;
+    }
+}
+
 
 /*@media (max-width: 750px) {
     .container_banner img {

@@ -87,6 +87,16 @@ body {
   }
 }
 
+@media (max-width: 350px) {
+  .Carregadores {
+    height: 10%;
+    width: 100%;
+    position: relative;
+    margin-left: 1px;
+    font-size: 1.3em;
+  }
+}
+
 @keyframes pulse {
   0% {
     transform: scale(1);
