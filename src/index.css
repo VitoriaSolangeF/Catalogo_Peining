@@ -60,10 +60,21 @@ body {
   background-color: #000000;
   color: #Fc6b12;
   font-weight: bold;
-  font-size: 1.9em;
+  font-size: 1.8em;
   display: flex;
   justify-content: center;
   padding: 8px;
+  margin: 3px;
+}
+
+@media (max-width: 600px) {
+  .Carregadores {
+    height: 10%;
+    width: 100%;
+    position: relative;
+    margin-left: 10px;
+    font-size: 1.3em;
+  }
 }
 
 @keyframes pulse {

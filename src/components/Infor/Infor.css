@@ -1,8 +1,6 @@
 .container_infor {
-    width: 90%;
-    height: 100vh;
-    height: auto;
-    padding-top: 100px;
+    width: 100%;
+    height: 10px;
     background-color: #efefef;
     position: relative;
     right: -90px;
@@ -11,7 +9,7 @@
 
 .slide-infor {
     width:100%;
-    height: 130px;
+    height: 10%px;
     object-fit: cover;
     z-index: 30;
     display: flex;
@@ -20,44 +18,28 @@
 }
 
 @media (max-width: 600px) {
-    .container_infor img {
-        height: 3em;
-        position: fixed;
-        right: 60px;
-        left: -20px;
+    .container_infor {
+        height: 10%;
+        width: 100%;
+        position: relative;
+        margin-left: 1px;
+        left: 10px;
+        margin-left: -5px
 
     }
 }
 
 @media (max-width: 750px) {
-    .container_infor img {
-        height: 4em;
+    .container_infor {
+        height: 0.5em;
         position: relative;
         right: 60px;
-        left: -20px;
+        left: 10px;
+        margin-left: -5px;
 
     }
 }
 
-@media (max-width: 900px) {
-    .container_infor img {
-        height: 4em;
-        position: relative;
-        right: 60px;
-        left: -20px;
-
-    }
-}
-
-@media (max-width: 1200px) {
-    .container_infor img {
-        height: 4em;
-        position: relative;
-        right: 60px;
-        left: -20px;
-
-    }
-}
 
 
 
